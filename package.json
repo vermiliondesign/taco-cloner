@@ -4,7 +4,8 @@
   "description": "A tool to help automate the setup of Projects",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "index.js"
   },
   "author": "Vermilion",
   "license": "Proprietary",
@@ -20,4 +21,4 @@
     "progress": "^2.0.0",
     "shelljs": "^0.7.8"
   }
-} 
+}
